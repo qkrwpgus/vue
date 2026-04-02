@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Minimal Jacket",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "likes": 84,
+    "date": "Apr 20",
+    "liked": false,
+    "content": "미니멀한 디자인의 라이트 자켓, 간절기에 가볍게 걸치기 좋습니다. 가격은 89,000원입니다.",
+    "filter": "clarendon"
+  },
+  {
+    "name": "Weekend Tote",
+    "userImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "likes": 66,
+    "date": "Apr 11",
+    "liked": false,
+    "content": "장보기부터 주말 나들이까지 활용 가능한 캔버스 토트백입니다. 가격은 39,000원입니다.",
+    "filter": "aden"
+  },
+  {
+    "name": "Soft Knit Studio",
+    "userImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "likes": 79,
+    "date": "Apr 3",
+    "liked": false,
+    "content": "베이식 컬러의 라운드 니트, 단독으로도 이너로도 활용도 높은 아이템입니다. 가격은 57,000원입니다.",
+    "filter": "lofi"
+  },
+  {
+    "name": "Clean Denim",
+    "userImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "likes": 91,
+    "date": "Mar 26",
+    "liked": false,
+    "content": "일자 핏의 논워싱 데님 팬츠, 어떤 상의와도 잘 어울리는 베이직 아이템입니다. 가격은 69,000원입니다.",
+    "filter": "crema"
+  },
+  {
+    "name": "Summer Slides",
+    "userImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 58,
+    "date": "Mar 18",
+    "liked": false,
+    "content": "휴가철은 물론 데일리로도 신기 좋은 미니멀 슬라이드 샌들입니다. 가격은 45,000원입니다.",
+    "filter": "rise"
+  }
+]
