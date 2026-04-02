@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Basic T-Shirt",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "likes": 55,
+    "date": "Dec 21",
+    "liked": false,
+    "content": "코튼 100% 소재의 베이식 반팔 티셔츠입니다. 가격은 19,000원입니다.",
+    "filter": "valencia"
+  },
+  {
+    "name": "City Runner",
+    "userImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 88,
+    "date": "Dec 13",
+    "liked": false,
+    "content": "가벼운 러닝과 산책에 적합한 러닝화입니다. 가격은 92,000원입니다.",
+    "filter": "gingham"
+  },
+  {
+    "name": "Check Muffler",
+    "userImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "likes": 73,
+    "date": "Dec 5",
+    "liked": false,
+    "content": "체크 패턴의 머플러로 겨울 코디에 포인트를 더해줍니다. 가격은 32,000원입니다.",
+    "filter": "juno"
+  },
+  {
+    "name": "Padded Vest",
+    "userImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "likes": 80,
+    "date": "Nov 27",
+    "liked": false,
+    "content": "가벼운 충전재를 사용한 패딩 조끼, 이너로 활용하기 좋은 상품입니다. 가격은 88,000원입니다.",
+    "filter": "moon"
+  },
+  {
+    "name": "Leather Belt",
+    "userImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "likes": 46,
+    "date": "Nov 19",
+    "liked": false,
+    "content": "심플한 버클의 소가죽 벨트입니다. 가격은 35,000원입니다.",
+    "filter": "lark"
+  }
+]
