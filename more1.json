@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Urban Sneakers",
+    "userImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 88,
+    "date": "Jun 2",
+    "liked": false,
+    "content": "데일리로 신기 좋은 화이트 로우탑 스니커즈입니다. 가격은 82,000원입니다.",
+    "filter": "valencia"
+  },
+  {
+    "name": "Daily Bag Club",
+    "userImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "likes": 53,
+    "date": "May 28",
+    "liked": false,
+    "content": "노트북도 수납 가능한 넉넉한 크기의 크로스백입니다. 가격은 59,000원입니다.",
+    "filter": "gingham"
+  },
+  {
+    "name": "Simple Outfit",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "likes": 74,
+    "date": "May 19",
+    "liked": false,
+    "content": "깔끔한 디자인의 코튼 셔츠, 오피스룩과 캐주얼룩 모두에 잘 어울립니다. 가격은 52,000원입니다.",
+    "filter": "juno"
+  },
+  {
+    "name": "Cozy Wear",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 61,
+    "date": "May 7",
+    "liked": false,
+    "content": "편안한 착용감의 조거 팬츠, 집과 밖에서 모두 활용하기 좋습니다. 가격은 47,000원입니다.",
+    "filter": "moon"
+  },
+  {
+    "name": "Street Line",
+    "userImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "likes": 97,
+    "date": "Apr 29",
+    "liked": false,
+    "content": "스트릿 무드의 로고 맨투맨 스웻셔츠입니다. 가격은 63,000원입니다.",
+    "filter": "lark"
+  }
+]
