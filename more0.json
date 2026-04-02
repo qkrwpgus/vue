@@ -1,7 +1,7 @@
 [
   {
     name: "Sneaker Store",
-    userImage: "https://picsum.photos/100?random=10",
+    userImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
     postImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
     likes: 79,
     date: "May 15",
@@ -11,7 +11,7 @@
   },
   {
     name: "Bag Studio",
-    userImage: "https://picsum.photos/100?random=11",
+    userImage: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
     postImage: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
     likes: 45,
     date: "Apr 20",
@@ -21,7 +21,7 @@
   },
   {
     name: "Minimal Wear",
-    userImage: "https://picsum.photos/100?random=12",
+    userImage: "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=80",
     postImage: "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=80",
     likes: 69,
     date: "Apr 4",
