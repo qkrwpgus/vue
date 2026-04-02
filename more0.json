@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "Black Monochrome Sneakers",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+    "content": "어떤 코디에도 잘 어울리는 블랙 모노톤 스니커즈입니다.",
+    "price": 79000
+  },
+  {
+    "id": 1,
+    "title": "Canvas Daily Tote Bag",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "content": "가볍고 튼튼한 데일리용 캔버스 토트백입니다.",
+    "price": 45000
+  },
+  {
+    "id": 2,
+    "title": "Minimal Hood Zipup",
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=80",
+    "content": "미니멀 디자인의 후드 집업, 간절기에 활용하기 좋습니다.",
+    "price": 69000
+  }
+]
