@@ -1,32 +1,10 @@
-[
-  {
-    name: "Sneaker Store",
-    userImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
-    postImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
-    likes: 79,
-    date: "May 15",
-    liked: false,
-    content: "어떤 코디에도 잘 어울리는 블랙 모노톤 스니커즈입니다. 가격은 79,000원입니다.",
-    filter: "perpetua"
-  },
-  {
-    name: "Bag Studio",
-    userImage: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
-    postImage: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
-    likes: 45,
-    date: "Apr 20",
-    liked: false,
-    content: "가볍고 튼튼한 데일리용 캔버스 토트백입니다. 가격은 45,000원입니다.",
-    filter: "clarendon"
-  },
-  {
-    name: "Minimal Wear",
-    userImage: "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=80",
-    postImage: "https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=80",
-    likes: 69,
-    date: "Apr 4",
-    liked: false,
-    content: "미니멀 디자인의 후드 집업, 간절기에 활용하기 좋습니다. 가격은 69,000원입니다.",
-    filter: "lofi"
-  }
-]
+{
+  name: "Sneaker Store",
+  userImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+  postImage: "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+  likes: 79,
+  date: "May 15",
+  liked: false,
+  content: "어떤 코디에도 잘 어울리는 블랙 모노톤 스니커즈입니다. 가격은 79,000원입니다.",
+  filter: "perpetua"
+}
