@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Classic Trench",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "likes": 102,
+    "date": "Mar 10",
+    "liked": false,
+    "content": "봄, 가을에 활용하기 좋은 클래식 트렌치 코트입니다. 가격은 129,000원입니다.",
+    "filter": "valencia"
+  },
+  {
+    "name": "Office Loafers",
+    "userImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 87,
+    "date": "Mar 4",
+    "liked": false,
+    "content": "부드러운 가죽 소재의 로퍼로 장시간 착용에도 편안합니다. 가격은 98,000원입니다.",
+    "filter": "gingham"
+  },
+  {
+    "name": "Daily Hoodie",
+    "userImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "likes": 76,
+    "date": "Feb 25",
+    "liked": false,
+    "content": "루즈핏 실루엣의 베이식 후디입니다. 가격은 55,000원입니다.",
+    "filter": "juno"
+  },
+  {
+    "name": "Slim Chinos",
+    "userImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "likes": 64,
+    "date": "Feb 17",
+    "liked": false,
+    "content": "슬림 스트레이트 핏의 치노 팬츠, 출근룩과 데일리룩 모두에 활용 가능합니다. 가격은 62,000원입니다.",
+    "filter": "moon"
+  },
+  {
+    "name": "Everyday Backpack",
+    "userImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "likes": 71,
+    "date": "Feb 9",
+    "liked": false,
+    "content": "수납력이 뛰어난 데일리 백팩, 학생과 직장인 모두에게 추천드립니다. 가격은 73,000원입니다.",
+    "filter": "lark"
+  }
+]
