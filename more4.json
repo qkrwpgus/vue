@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Summer Linen Shirt",
+    "userImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "likes": 69,
+    "date": "Feb 1",
+    "liked": false,
+    "content": "린넨 혼방 소재로 시원하게 착용 가능한 반팔 셔츠입니다. 가격은 49,000원입니다.",
+    "filter": "aden"
+  },
+  {
+    "name": "Canvas Sneakers",
+    "userImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "likes": 95,
+    "date": "Jan 24",
+    "liked": false,
+    "content": "캐주얼한 무드의 캔버스 스니커즈, 사계절 내내 활용도 높은 아이템입니다. 가격은 58,000원입니다.",
+    "filter": "lofi"
+  },
+  {
+    "name": "Wool Cardigan",
+    "userImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+    "likes": 82,
+    "date": "Jan 15",
+    "liked": false,
+    "content": "울 블렌드 소재의 브이넥 가디건입니다. 가격은 77,000원입니다.",
+    "filter": "crema"
+  },
+  {
+    "name": "Relax Wide Pants",
+    "userImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
+    "likes": 59,
+    "date": "Jan 7",
+    "liked": false,
+    "content": "와이드 핏의 밴딩 팬츠로 편안한 실루엣을 연출해 줍니다. 가격은 54,000원입니다.",
+    "filter": "rise"
+  },
+  {
+    "name": "Simple Crossbody",
+    "userImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "postImage": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=800&q=80",
+    "likes": 63,
+    "date": "Dec 30",
+    "liked": false,
+    "content": "심플한 디자인의 크로스백, 가벼운 외출용으로 적합한 제품입니다. 가격은 41,000원입니다.",
+    "filter": "clarendon"
+  }
+]
